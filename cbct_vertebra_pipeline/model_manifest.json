@@ -1,0 +1,32 @@
+{
+  "repository": "Hendrik-code/spineps",
+  "models": [
+    {
+      "key": "ct",
+      "tag": "v2.0.0",
+      "asset_id": 519579681,
+      "asset_name": "ct.zip",
+      "directory": "CT_semantic_v2.0.0",
+      "size": 767446751,
+      "sha256": "b8412eac8dead23cc9be01151af7ad9e5c07241208ca62dc0cb568ac93d45df9"
+    },
+    {
+      "key": "ct_instance",
+      "tag": "v2.0.0",
+      "asset_id": 519577829,
+      "asset_name": "CT_instance.zip",
+      "directory": "CT_instance_v2.0.0",
+      "size": 20038934,
+      "sha256": "63062c89322ff0da002320748ec744024de6d5d7b984462c1788afe3191bdbff"
+    },
+    {
+      "key": "ct_labeling",
+      "tag": "v1.4.0",
+      "asset_id": 419468444,
+      "asset_name": "ct_labeling.zip",
+      "directory": "CT_labeling_v1.4.0",
+      "size": 87702976,
+      "sha256": "a3b583d9a1dca19a92b7ccb466d08ba7464fa90752ef7e2be53817d4b43496f5"
+    }
+  ]
+}

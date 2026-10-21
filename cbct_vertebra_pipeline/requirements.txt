@@ -1,0 +1,8 @@
+# Install a PyTorch build appropriate for the machine FIRST.
+spineps==2.1.3
+requests==2.34.2
+Pillow==12.3.0
+numpy==2.3.5
+nibabel==5.4.2
+scikit-image==0.26.0
+trimesh==5.1.1
